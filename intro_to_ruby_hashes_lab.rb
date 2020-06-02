@@ -15,7 +15,7 @@ def monopoly_with_second_tier
   # complexity.
 
   {:boy => "Make sure you have at least one key defined in the monopoly hash"}
-  {:railroads => {:pieces => "Hello"
+  {:railroads => {:pieces => "4"
 
   }
     }
