@@ -31,7 +31,7 @@ def monopoly_with_third_tier
 
   {:boy => "Make sure you have at least one key defined in the monopoly hash"}
   {:railroads => {:pieces => 4, :rent_in_dollars => {
-    :one_piece_owned => 25
+    :one_piece_owned => 25, :two_pieces_owned => 50
     }, :names => {}, :one_piece_owned => 25
 
   }
