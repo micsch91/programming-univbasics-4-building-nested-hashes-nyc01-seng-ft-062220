@@ -29,6 +29,14 @@ def monopoly_with_third_tier
   # they'll guide you in how to modify what you just did to have more
   # complexity.
 
+  {:boy => "Make sure you have at least one key defined in the monopoly hash"}
+  {:railroads => {:pieces => 4, :rent_in_dollars => {}, :names => {}, :one_piece_owned => 25
+
+  }
+    }
+
+
+
 end
 
 def monopoly_with_fourth_tier
