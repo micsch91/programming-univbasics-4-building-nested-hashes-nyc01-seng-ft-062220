@@ -15,10 +15,12 @@ def monopoly_with_second_tier
   # complexity.
 
   {:boy => "Make sure you have at least one key defined in the monopoly hash"}
-  {:railroads => {
+  {:railroads => {:pieces => "Hello"
 
   }
     }
+
+
 end
 
 def monopoly_with_third_tier
